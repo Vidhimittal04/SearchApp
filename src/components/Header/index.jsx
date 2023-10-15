@@ -11,6 +11,7 @@ const Header = (props) => {
           src="images/img_image1.png"
           alt="imageOne"
         />
+        
         <div className="flex flex-row gap-0.5 h-[62px] md:h-auto items-center justify-start ml-8 md:ml-[0] md:mt-0 my-[11px] p-4 w-auto">
           <Text
             className="text-black-900 text-lg w-auto"
